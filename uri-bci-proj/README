@@ -1,0 +1,5 @@
+This is the research project related to the BCI and DL courses in URI.
+The presentation is stored and being developed in Google drive cloud.
+The paper is stored and being developed in cloud,  Overleaf and SharedLaTex.
+The code and implementation is stored and being developed in cloud as well, GitHub repository which is similar to hg-Mercurial and svn-Subversion repositories.
+The code is written and being developed in Python using Anaconda for virtual env creation with'.ipynb' using ipython kernel as an interactive python programming/ developement environment.
