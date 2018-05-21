@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn-fnirs-har.ckpt"
+all_model_checkpoint_paths: "cnn-fnirs-har.ckpt"
