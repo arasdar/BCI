@@ -1,3 +1,0 @@
-model_checkpoint_path: "model.ckpt"
-all_model_checkpoint_paths: "../checkpoints2/cnn-fnirs-autoencoder.ckpt"
-all_model_checkpoint_paths: "model.ckpt"
