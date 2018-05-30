@@ -1,2 +1,2 @@
-model_checkpoint_path: "mlp-fnirs-har-10subjects.ckpt"
-all_model_checkpoint_paths: "mlp-fnirs-har-10subjects.ckpt"
+model_checkpoint_path: "lstm-imu-har.ckpt"
+all_model_checkpoint_paths: "lstm-imu-har.ckpt"
