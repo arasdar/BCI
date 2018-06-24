@@ -1,2 +1,0 @@
-model_checkpoint_path: "lstm-imu-har.ckpt"
-all_model_checkpoint_paths: "lstm-imu-har.ckpt"
